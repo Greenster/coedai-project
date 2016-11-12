@@ -1,3 +1,3 @@
 # standard-web
 
-**Web standard file for Site build**
+**HTML starter page for Web standard file**
